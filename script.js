@@ -1,7 +1,17 @@
 document.addEventListener("DOMContentLoaded", function () {
     const lyrics = [
-        "hi ewan ko lang",
-        "ang boring oh"
+        "HI",
+        "ewan ko lang"
+        "pero ang ganda mo"
+        "hindi pa Christmas pero"
+        "Merry Christmas bebi"
+        "oo na ginaya ko sayo"
+        "hehe"
+        "anyways"
+        "diba gusto mo flowers"
+        "eto, flowers"
+    
+        
 
     ];
 
